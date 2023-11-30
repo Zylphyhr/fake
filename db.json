@@ -8,7 +8,8 @@
       "location": "Werchter",
       "date": "4-7 July 2024",
       "time": "12:00",
-      "organizer": "Noel Steen"
+      "organizer": "Noel Steen",
+      "url": "RockWerchter.png"
     },
     {
       "id": 2,
@@ -18,17 +19,19 @@
       "location": "Kiewet, Hasselt",
       "date": "15-18 August 2024",
       "time": "11:00",
-      "organizer": "Chokri Mahassine"
+      "organizer": "Chokri Mahassine",
+      "url": "pukkelpop.png"
     },
     {
       "id": 3,
-      "category": "Tomorrowland",
-      "title": "Electronic Dance Festival",
+      "category": "Electronic",
+      "title": "Tomorrowland",
       "description": "Lorem ipsum and various other words that don't really matter for this context.",
       "location": "Boom",
       "date": "19-21 July & 26-28 July 2024",
       "time": "11:00",
-      "organizer": "Weareone"
+      "organizer": "Weareone",
+      "url": "tomorrowland.jpg"
     }
   ]
 }
