@@ -4,118 +4,121 @@
       "id": 1,
       "category": "Rock",
       "title": "Rock Werchter",
-      "description": "Rock Werchter is een gerenomeerd muziekfestival dat jaarlijks plaatsvindt in Werchter, België",
+      "description": "Lorem ipsum and various other words that don't really matter for this context.",
       "location": "Werchter",
-      "date": "4-7 juli 2024",
+      "date": "4-7 July 2024",
       "time": "12:00",
-      "organisator": "Noël Steen",
-      "img": "https://festivalfans.nl/wp-content/uploads/2014/06/Rock-Werchter-2023.jpg"
+      "organizer": "Noel Steen"
     },
     {
       "id": 2,
       "category": "Pop",
       "title": "Pukkelpop",
-      "description": "Pukkelpop is een gerenomeerd muziekfestival dat jaarlijks plaatsvindt in Kiewit, België",
-      "location": "Kiewit, Hasselt",
-      "date": "15-18 augustus 2024",
+      "description": "Lorem ipsum and various other words that don't really matter for this context.",
+      "location": "Kiewet, Hasselt",
+      "date": "15-18 August 2024",
       "time": "11:00",
-      "organisator": "Chokri Mahassine",
-      "img": "https://play-lh.googleusercontent.com/lcqXJHdEf_CgPyH8hCuK7_5KPB-adMRllk9Q65m_XF5dkxewSeEbUmVRKetBlkqRjQ"
+      "organizer": "Chokri Mahassine"
     },
     {
       "id": 3,
-      "category": "Elektronische Dansmuziek",
-      "title": "Tomorrowland",
-      "description": "Tomorrowland is een MEGA muziekfestival in Boom, België",
+      "category": "Tomorrowland",
+      "title": "Electronic Dance Festival",
+      "description": "Lorem ipsum and various other words that don't really matter for this context.",
       "location": "Boom",
-      "date": "19-21 juli en 26-28 juli 2024",
+      "date": "19-21 July & 26-28 July 2024",
       "time": "11:00",
-      "organisator": "Weareone",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo-tomorrowland.jpg"
+      "organizer": "Weareone"
     },
     {
       "id": 4,
-      "category": "Elektronische Dansmuziek",
-      "title": "Tomorrowland Winter",
-      "description": "Tomorrowland is een MEGA muziekfestival in de Franse Alpen, Frankrijk",
-      "location": "Alpen, Frankrijk",
-      "date": "19-21 juli en 26-28 juli 2024",
-      "time": "11:00",
-      "organisator": "Weareone",
-      "img": "https://bocir-prod-bucket.s3.amazonaws.com/medias/UBL5BgYYYQ/image/tomorrowwinter%2020225062836319647_n1632210835190-format1by1.jpg"
+      "category": "Rock",
+      "title": "Rock Werchter",
+      "description": "Lorem ipsum and various other words that don't really matter for this context.",
+      "location": "Werchter",
+      "date": "4-7 July 2024",
+      "time": "12:00",
+      "organizer": "Noel Steen"
     },
     {
       "id": 5,
-      "category": "Rock",
-      "title": "Rock Werchter",
-      "description": "Rock Werchter is een gerenomeerd muziekfestival dat jaarlijks plaatsvindt in Werchter, België",
-      "location": "Werchter",
-      "date": "4-7 juli 2024",
-      "time": "12:00",
-      "organisator": "Noël Steen",
-      "img": "https://festivalfans.nl/wp-content/uploads/2014/06/Rock-Werchter-2023.jpg"
+      "category": "Pop",
+      "title": "Pukkelpop",
+      "description": "Lorem ipsum and various other words that don't really matter for this context.",
+      "location": "Kiewet, Hasselt",
+      "date": "15-18 August 2024",
+      "time": "11:00",
+      "organizer": "Chokri Mahassine"
     },
     {
       "id": 6,
-      "category": "Pop",
-      "title": "Pukkelpop",
-      "description": "Pukkelpop is een gerenomeerd muziekfestival dat jaarlijks plaatsvindt in Kiewit, België",
-      "location": "Kiewit, Hasselt",
-      "date": "15-18 augustus 2024",
+      "category": "Tomorrowland",
+      "title": "Electronic Dance Festival",
+      "description": "Lorem ipsum and various other words that don't really matter for this context.",
+      "location": "Boom",
+      "date": "19-21 July & 26-28 July 2024",
       "time": "11:00",
-      "organisator": "Chokri Mahassine",
-      "img": "https://play-lh.googleusercontent.com/lcqXJHdEf_CgPyH8hCuK7_5KPB-adMRllk9Q65m_XF5dkxewSeEbUmVRKetBlkqRjQ"
+      "organizer": "Weareone"
     },
     {
       "id": 7,
-      "category": "Elektronische Dansmuziek",
-      "title": "Tomorrowland",
-      "description": "Tomorrowland is een MEGA muziekfestival in Boom, België",
-      "location": "Boom",
-      "date": "19-21 juli en 26-28 juli 2024",
-      "time": "11:00",
-      "organisator": "Weareone",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo-tomorrowland.jpg"
+      "category": "Rock",
+      "title": "Rock Werchter",
+      "description": "Lorem ipsum and various other words that don't really matter for this context.",
+      "location": "Werchter",
+      "date": "4-7 July 2024",
+      "time": "12:00",
+      "organizer": "Noel Steen"
     },
     {
       "id": 8,
-      "category": "Elektronische Dansmuziek",
-      "title": "Tomorrowland Winter",
-      "description": "Tomorrowland is een MEGA muziekfestival in de Franse Alpen, Frankrijk",
-      "location": "Alpen, Frankrijk",
-      "date": "19-21 juli en 26-28 juli 2024",
+      "category": "Pop",
+      "title": "Pukkelpop",
+      "description": "Lorem ipsum and various other words that don't really matter for this context.",
+      "location": "Kiewet, Hasselt",
+      "date": "15-18 August 2024",
       "time": "11:00",
-      "organisator": "Weareone",
-      "img": "https://bocir-prod-bucket.s3.amazonaws.com/medias/UBL5BgYYYQ/image/tomorrowwinter%2020225062836319647_n1632210835190-format1by1.jpg"
-    }
-  ],
-  "foodtrucks": [
-    {
-      "id": 1,
-      "title": "TacoBurrito",
-      "description": "Wij zijn een foodtruck met focus op TACO's en BURRITO's. Deze specialiteiten kun je enkel via ons verkrijgen op de weides van het festivalterein!",
-      "location": "Weide 5",
-      "openinghours": "10:00h - 22:00h",
-      "owner": "Mr John Taco",
-      "img": "https://i.pinimg.com/originals/35/d0/5f/35d05f9646edb519bf60c84b73f6fe1d.jpg"
+      "organizer": "Chokri Mahassine"
     },
     {
-      "id": 2,
-      "title": "Louis' Pizza",
-      "description": "Wij zijn een foodtruck met focus op pizza's. Deze specialiteiten kun je enkel via ons verkrijgen op de weides van het festivalterein!",
-      "location": "Weide 1",
-      "openinghours": "10:00h - 22:00h",
-      "owner": "Louis Pizza",
-      "img": "https://www.houseofweddings.com/files/cache/medium/files/2-0fc14d7c8cbe0cf43cc5f5f75b75e6ee-64356cd56be72.jpg"
+      "id": 9,
+      "category": "Tomorrowland",
+      "title": "Electronic Dance Festival",
+      "description": "Lorem ipsum and various other words that don't really matter for this context.",
+      "location": "Boom",
+      "date": "19-21 July & 26-28 July 2024",
+      "time": "11:00",
+      "organizer": "Weareone"
     },
     {
-      "id": 3,
-      "title": "Burger Pit",
-      "description": "Wij zijn een foodtruck met focus op Burgers. Deze specialiteiten kun je enkel via ons verkrijgen op de weides van het festivalterein!",
-      "location": "Weide 2",
-      "openinghours": "10:00h - 22:00h",
-      "owner": "Good Mood Food",
-      "img": "https://ik.imagekit.io/nuento/gallery/635fc1cd-66a5-475c-ba81-e27631847666_zAsq-CYo3.jpeg"
+      "id": 10,
+      "category": "Rock",
+      "title": "Rock Werchter",
+      "description": "Lorem ipsum and various other words that don't really matter for this context.",
+      "location": "Werchter",
+      "date": "4-7 July 2024",
+      "time": "12:00",
+      "organizer": "Noel Steen"
+    },
+    {
+      "id": 11,
+      "category": "Pop",
+      "title": "Pukkelpop",
+      "description": "Lorem ipsum and various other words that don't really matter for this context.",
+      "location": "Kiewet, Hasselt",
+      "date": "15-18 August 2024",
+      "time": "11:00",
+      "organizer": "Chokri Mahassine"
+    },
+    {
+      "id": 12,
+      "category": "Tomorrowland",
+      "title": "Electronic Dance Festival",
+      "description": "Lorem ipsum and various other words that don't really matter for this context.",
+      "location": "Boom",
+      "date": "19-21 July & 26-28 July 2024",
+      "time": "11:00",
+      "organizer": "Weareone"
     }
   ]
 }
