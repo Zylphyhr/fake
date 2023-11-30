@@ -8,7 +8,8 @@
       "location": "Werchter",
       "date": "4-7 July 2024",
       "time": "12:00",
-      "organizer": "Noel Steen"
+      "organizer": "Noel Steen",
+      "url": "RockWerechter.png"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "location": "Kiewet, Hasselt",
       "date": "15-18 August 2024",
       "time": "11:00",
-      "organizer": "Chokri Mahassine"
+      "organizer": "Chokri Mahassine",
+      "url": "pukkelpop.png"
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "location": "Boom",
       "date": "19-21 July & 26-28 July 2024",
       "time": "11:00",
-      "organizer": "Weareone"
+      "organizer": "Weareone",
+      "url": "tomorrowland.jpg"
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "location": "Werchter",
       "date": "4-7 July 2024",
       "time": "12:00",
-      "organizer": "Noel Steen"
+      "organizer": "Noel Steen",
+      "url": "RockWerechter.png"
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "location": "Kiewet, Hasselt",
       "date": "15-18 August 2024",
       "time": "11:00",
-      "organizer": "Chokri Mahassine"
+      "organizer": "Chokri Mahassine",
+      "url": "pukkelpop.png"
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "location": "Boom",
       "date": "19-21 July & 26-28 July 2024",
       "time": "11:00",
-      "organizer": "Weareone"
+      "organizer": "Weareone",
+      "url": "tomorrowland.jpg"
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "location": "Werchter",
       "date": "4-7 July 2024",
       "time": "12:00",
-      "organizer": "Noel Steen"
+      "organizer": "Noel Steen",
+      "url": "RockWerechter.png"
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "location": "Kiewet, Hasselt",
       "date": "15-18 August 2024",
       "time": "11:00",
-      "organizer": "Chokri Mahassine"
+      "organizer": "Chokri Mahassine",
+      "url": "pukkelpop.png"
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "location": "Boom",
       "date": "19-21 July & 26-28 July 2024",
       "time": "11:00",
-      "organizer": "Weareone"
+      "organizer": "Weareone",
+      "url": "tomorrowland.jpg"
     },
     {
       "id": 10,
@@ -98,7 +107,8 @@
       "location": "Werchter",
       "date": "4-7 July 2024",
       "time": "12:00",
-      "organizer": "Noel Steen"
+      "organizer": "Noel Steen",
+      "url": "RockWerechter.png"
     },
     {
       "id": 11,
@@ -108,7 +118,8 @@
       "location": "Kiewet, Hasselt",
       "date": "15-18 August 2024",
       "time": "11:00",
-      "organizer": "Chokri Mahassine"
+      "organizer": "Chokri Mahassine",
+      "url": "pukkelpop.png"
     },
     {
       "id": 12,
@@ -118,7 +129,8 @@
       "location": "Boom",
       "date": "19-21 July & 26-28 July 2024",
       "time": "11:00",
-      "organizer": "Weareone"
+      "organizer": "Weareone",
+      "url": "tomorrowland.jpg"
     }
   ]
 }
